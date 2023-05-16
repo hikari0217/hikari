@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T07:20:34.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.3.2" etag="-JspID5KJ-zpnL5MIE2K" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T07:35:59.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kYZC9e9mhYJrrdk6KG-g" version="21.3.2" type="github">
   <diagram name="第 1 页" id="NtEkEqb2PxnjNOnHZOhS">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NWjNerLPWRKTAkjogWAG-1" value="前端页面组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NWjNerLPWRKTAkjogWAG-2" value="bottom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NWjNerLPWRKTAkjogWAG-3" value="getData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NWjNerLPWRKTAkjogWAG-4" value="Instruction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NWjNerLPWRKTAkjogWAG-5" value="KeyworrdInput" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NWjNerLPWRKTAkjogWAG-6" value="TitleMod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NWjNerLPWRKTAkjogWAG-7" value="tophub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NWjNerLPWRKTAkjogWAG-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="20" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
